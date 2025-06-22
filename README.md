@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm an aspiring Software Engineer with a growing passion for Machine Learning and Data Analysis. Currently, I'm actively building full-stack web applications, experimenting with API integration, and always looking for ways to use tech to solve real-world problems.</h3>                        
 
-- 🔭 I’m currently working on **building full-stack web applications, experimenting with API integration.**
+- 🔭 I’m currently working on **building full-stack web applications and experimenting with API integration.**
 
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me **mayeshafahmida2003@gmail.com**
