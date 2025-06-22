@@ -25,11 +25,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mfahmida" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mfahmida" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="border: none;" />
+  </a>
 
-<a href="https://kaggle.com/mayesha fahmida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayesha fahmida" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1bfrb569vm/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bfrb569vm/?mibextid=wwxifr" height="30" width="40" /></a>
-<a href="https://instagram.com/ninja_shishumaru ( @https://www.instagram.com/ninja_shishumaru?igsh=chvpazixohnkzmiw&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ninja_shishumaru ( @https://www.instagram.com/ninja_shishumaru?igsh=chvpazixohnkzmiw&utm_source=qr)" height="30" width="40" /></a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/mayeshafahmida" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" style="border: none;" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1BfrB569VM/?mibextid=wwXIfr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="border: none;" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ninja_shishumaru?igsh=cHVpazIxOHNkZmIw&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="border: none;" />
+  </a>
 </p>
